@@ -1,0 +1,102 @@
+
+
+
+
+  
+	  
+
+.cabeçalho {
+			background-color: #663300;/* ( COR DA IMAGEM DE FUNDO : CARAMELO FORTE ) */border-top-color: #CC6600; /* ( COR DA IMAGEM DA BORDA : MARROM ESCURO ) */border-right-color: #CC6600; border-bottom-color: #CC6600; border-left-color:  #CC6600;
+			border-style: solid; height: 80px; text-align: center;/* (ALINHANDO O TEXTO À DIREITA)*/color: white;/* ( COR DO TEXTO: BRANCO ) */	padding-bottom: 15px;
+			}
+			
+			
+				
+		
+
+nav {
+	 display: flex; justify-content: center;
+	 }
+	
+	
+
+ 
+ a 	{height: 90px; width: 90px; border-radius: 5%; background-color: #996633; /* ( COR DA FONTE ) */ /* ( COR DA FONTE: CARAMELO ) */
+	 padding-right: 10px; padding-left: 10px; margin-left: 10px; margin-right: 10px; align-text: center;
+	 }
+	 
+
+			
+			
+	
+
+img {
+	  height: 150px; width: 150px; /*padding: 6px*/ border-radius: 50%; flex-wrap: wrap; /* ( CONFIGURANADO A POSIÇÃO DA TELA NAS IMAGENS ) */
+	 } 
+	  
+	
+  
+		  
+.seção {
+		display: flex; color: CC6600; font-size: 20px; color: #CC6600;
+		}
+		   
+
+ 
+	
+
+.rodapé {display: flex; justify-content: center; background-color: #663300; /* ( COR DA IMAGEM DE FUNDO : CARAMELO FORTE ) */
+		border-top-color: #CC6600; /* ( COR DA IMAGEM DA BORDA : MARROM ESCURO ) */border-right-color: #CC6600; 
+		border-bottom-color: #CC6600; border-left-color: #CC6600; border-style: solid; height: 10px; color: white;
+		padding-bottom: 35px; width: 100%; /*border-top: 6px;*/ font-size: 20px; color: yellow; text-align: center;
+		/*border-right: 6px;*/ /*border-bottom: 6px;*/ /*border-left: 6px;*/
+		/* ( ESTES COMENTÁRIOS FORAM PARA FAZER EXIBIR AS BORDAS EXTERNAS QUE ESTAVAM OCULTAS )*/
+		}
+		
+		
+		
+		
+		
+.linha divisória {
+				  background-color: CC6600; border: 5px; border-style: solid;
+				 }
+				 
+				 
+.laterais {border: 5px; border-style: solid; border-color: #663300; text-align: center; color: #CC6600; font-size: 40px; margin-bottom: 10px;
+			}				 
+				 
+				 
+				 
+/*------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+.corpo {
+		background-color: CC6600; border: 5px; border-style: solid; font-size: 50px; color: #663300; text-align: center;
+		}
+
+
+
+#fotos {
+		flex-wrap: nowrap; 
+		}
+		
+		
+		
+		
+		
+.cor do texto {
+			  font-size: 20px; color: #CC6600;
+			  }
+
+
+
+.artigo {
+		font-size: 20px; color: #CC6600;
+		}
+		
+		
+
+				
+		
+/* DISPLAY FLEX */
